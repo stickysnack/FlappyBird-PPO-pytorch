@@ -1,0 +1,4 @@
+numpy==1.24.4
+pygame==2.5.2
+opencv-python-headless==4.9.0.80
+auto_mix_prep==0.2.0

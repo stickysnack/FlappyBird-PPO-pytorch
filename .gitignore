@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Runs / logs / checkpoints
+tensorboard_*/
+tensorboard_dnq/
+trained_models/
+
+# OS noise
+.DS_Store
